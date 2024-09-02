@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tableToParse/static/css/main.65d146aa.css",
+    "main.js": "/tableToParse/static/js/main.a5cfbac6.js",
+    "index.html": "/tableToParse/index.html",
+    "main.65d146aa.css.map": "/tableToParse/static/css/main.65d146aa.css.map",
+    "main.a5cfbac6.js.map": "/tableToParse/static/js/main.a5cfbac6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65d146aa.css",
+    "static/js/main.a5cfbac6.js"
+  ]
+}

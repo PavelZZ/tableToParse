@@ -145,7 +145,7 @@ function UserInfoTable({ data }: ITableProps) {
                 onCrossClick={() => setAllSearchValue('')}
                 onChange={(e) => setAllSearchValue(e.target.value)}
                 onSearch={handleSearch} />
-            <Table dataSource={filteredData} columns={tableColumns} scroll={{ y: 900 }} />
+            <Table dataSource={filteredData} columns={tableColumns} scroll={{ y: 600 }} />
         </Flex >
     )
 }
